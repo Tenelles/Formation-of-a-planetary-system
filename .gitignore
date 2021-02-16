@@ -1,0 +1,6 @@
+.git
+.vs
+graphics.py
+__pycache__
+*.sln
+*.pyproj
